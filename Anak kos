@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # --- Title ---
-st.title("🏠 Pengeluaran Anak Kos [NIM Anda]")
+st.title("🏠 Pengeluaran Anak Kos [71241118]")
 
 
 # --- Input Uang Bulanan ---
